@@ -1,5 +1,5 @@
 # Home Work: 02
-# Title: Single Activity with a spinner, Button, and TextView
+# Title: Result shown in another activity using Intent
 # Platform: Android
 # IDE: Android Studio
 # Language: Java,XML
