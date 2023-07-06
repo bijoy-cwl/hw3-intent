@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW3</string>
+    <string name="check">Check</string>
+    <string name="category">Category</string>
+
+    <string-array name="animals">
+        <item>Select One</item>
+    </string-array>
+</resources>
